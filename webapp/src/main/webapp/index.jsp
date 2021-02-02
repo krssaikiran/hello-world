@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One last test </h3>
+<h1> Hello this is the page deployed from tomcat !!! </h1>
+<h2> how are ypu </h2>
+<h3>  </h3>
