@@ -1,5 +1,5 @@
 # Pull base image 
-From tomcat:laest
+From tomcat:latest
 
 #copying .war file to tomcat image
 COPY ./webapp.war /usr/local/tomcat/webapps
